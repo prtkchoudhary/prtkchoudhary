@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prtkchoudhary
+- 👋 Hi, I’m Prateek Choudhary
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java and C/C++
 - 💞️ I’m looking to collaborate on java based projects
