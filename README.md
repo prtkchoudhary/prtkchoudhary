@@ -1,15 +1,15 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World!">
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/prtkchoudhary/count.svg" />
 </p>
 
 ## About me
 
-I'm Prateek Choudhary. A Computer Science student at Thapar Institue of Engineering & Technology.Excited to learn and contribute in Open Source Projects. Community is :heart:. Photographer & Cinematograpger :camera:and :coffee: lover. 
+I'm Prateek Choudhary. A Computer Science student at Thapar Institue of Engineering & Technology.Excited to learn and contribute in Open Source Projects. Community is :heart:. Photographer & Cinematograpger 📷 and :coffee: lover. 
 
   
 
@@ -18,12 +18,13 @@ I'm Prateek Choudhary. A Computer Science student at Thapar Institue of Engineer
 
 - Java :robot:
 - Open source :octocat:
+- Music 🎵
 - Finding more sooon 
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss tech and gadgets [Twitter](https://twitter.com/prtkchaudhary_).
-- Your camera guy on [Instagram](https://instagra.cpm/prtkchaudhary_).
+- Your future buddy to discuss tech and gadgets [Twitter](https://twitter.com/prtkchoudhary_).
+- Your camera guy on [Instagram](https://instagra.cpm/prtkchoudhary).
 - Your bot tester on Discord (prtk#4293)
 - And of course GitHub you're already on (Recursion).
 
