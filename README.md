@@ -9,22 +9,21 @@
 
 ## About me
 
-I'm Prateek Choudhary. A Computer Science student at Thapar Institue of Engineering & Technology.Excited to learn and contribute in Open Source Projects. Community is :heart:. Photographer & Cinematograpger 📷 and :coffee: lover. 
+I'm Prateek Choudhary. A Computer Science student at Thapar Institue of Engineering & Technology.Excited to learn and contribute in Open Source Projects and loves building websites . Community is :heart:. Photographer & Cinematograpger 📷 and :coffee: lover. 
 
   
 
 
 ## Things I am passionate about
 
-- Java :robot:
+- Java, C++ :robot:
 - Open source :octocat:
+- CyberSecurity :robot:
+- Web Development :octocat:
 - Music 🎵
 - Finding more sooon 
-
 ## Get in touch :coffee:
 
-- Your future buddy to discuss tech and gadgets [Twitter](https://twitter.com/prtkchoudhary_).
-- Your camera guy on [Instagram](https://instagra.cpm/prtkchoudhary).
 - Your bot tester on Discord (prtk#4293)
 - And of course GitHub you're already on (Recursion).
 
